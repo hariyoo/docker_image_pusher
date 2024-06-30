@@ -8,3 +8,5 @@ xhofe/alist:latest
 ubuntu:24.04
 # node
 node
+# mysql
+mysql

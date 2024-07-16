@@ -15,3 +15,5 @@ node:14.21.3
 mysql
 # mongodb
 mongo:8.0.0-rc11
+# zookeeper
+zookeeper

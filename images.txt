@@ -17,3 +17,4 @@ mysql
 mongo:8.0.0-rc11
 # zookeeper
 zookeeper
+solr:8.11.2

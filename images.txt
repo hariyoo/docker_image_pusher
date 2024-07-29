@@ -13,6 +13,7 @@ node:12.22.12
 node:14.21.3
 # mysql
 mysql
+mysql:8.0.27
 # mongodb
 mongo:8.0.0-rc11
 # zookeeper

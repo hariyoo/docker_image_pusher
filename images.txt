@@ -21,3 +21,6 @@ zookeeper
 solr:8.11.2
 
 rustdesk/rustdesk-server
+
+keynetworks/ztncui
+zfxmnb/zerotier-moon

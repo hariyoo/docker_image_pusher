@@ -11,6 +11,7 @@ ubuntu:22.04
 node
 node:12.22.12
 node:14.21.3
+node:20.11.1-bullseye-slim
 # mysql
 mysql
 mysql:8.0.27

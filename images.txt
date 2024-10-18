@@ -25,3 +25,5 @@ rustdesk/rustdesk-server
 
 keynetworks/ztncui
 zfxmnb/zerotier-moon
+
+redis

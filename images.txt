@@ -27,3 +27,5 @@ keynetworks/ztncui
 zfxmnb/zerotier-moon
 
 redis
+
+mrvautin/adminmongo

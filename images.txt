@@ -29,3 +29,5 @@ zfxmnb/zerotier-moon
 redis
 
 mrvautin/adminmongo
+
+fastposter/fastposter
